@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@cloudflare/workers-types": "^3.18.0",
     "@craco/craco": "6.4.5",
     "@ssttevee/multipart-parser": "0.1.9",
     "@testing-library/jest-dom": "5.16.5",
